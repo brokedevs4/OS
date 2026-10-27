@@ -1,0 +1,7 @@
+Algorithm,Avg_WT,Avg_TAT,Avg_RT,CPU_Util,Throughput,Context_Switches
+"FCFS (First Come First Served)",8.75,15.25,8.75,100,0.153846,3
+"SJF (Shortest Job First, Non-Preemptive)",7.75,14.25,7.75,100,0.153846,3
+"SRTF (Shortest Remaining Time First, Preemptive)",6.5,13,4.25,100,0.153846,4
+"Round Robin (q=1 ms)",12.5,19,0.75,100,0.153846,23
+"Round Robin (q=4 ms)",11.75,18.25,4.5,100,0.153846,7
+"HRRN (Highest Response Ratio Next, Non-Preemptive)",7.75,14.25,7.75,100,0.153846,3

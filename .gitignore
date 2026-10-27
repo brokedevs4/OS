@@ -1,0 +1,8 @@
+# Ignore all report documents and binary executables
+Report.*
+report.*
+REPORT.*
+*.pdf
+*.docx
+scheduler
+*.exe
